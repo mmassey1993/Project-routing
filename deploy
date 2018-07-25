@@ -1,0 +1,3 @@
+#!/bin/bash
+mvn clean install && ~/Documents/jboss-fuse-6.3.0.redhat-187/bin/client "osgi:update 293"
+
